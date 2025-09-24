@@ -1,0 +1,5 @@
+{
+  "name": "Smart Bike Dashboard",
+  "description": "An intelligent, offline-first Progressive Web App for motorcyclists to track real-time trip data, fuel consumption, and maintenance, enhanced with AI-powered insights from Google Gemini.",
+  "requestFramePermissions": []
+}
